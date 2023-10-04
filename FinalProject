@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html charset=UTF-8>
+    <head>
+        <title>Final Project</title>
+    </head>
+    <body>
+        <h1>Sophie Gresens</h1>
+        <nav>
+            <a href= "">Link 1</a>
+            <a href="">Link 2</a>
+            <a href="">Link 3</a>
+            <a href="">Link 4</a>
+        </nav>
+        <h2>Favorite Foods</h2>
+            <ul>
+                <li>Potatoes</li>
+                <li>Coffee</li>
+                <li>Sour Patch Kids</li>
+                <li>Wine</li>
+            </ul>
+        <h2>Achievements</h2>
+            <label for="bar1">Progress in this course (100%)</label>
+            <progress id="bar1" value="100" max="100">100%</progress>
+            <br />
+            <label for="bar2">Progress in Specialization capstone (20%)</label>
+            <progress id="bar2" value="20" max="100">20%</progress>
+            <br />
+            <label for="bar3">Progress in life goals (30%)</label>
+            <progress id="bar3" value="30" max="100">30%</progress>
+            <br />
+        <h2>More About Me</h2>
+            <details>
+                <summary>My Childhood</summary>
+                 <p>I grew up with my family and two dogs in a small town</p>
+             </details>
+        <footer>
+            <img src="http://www.intro-webdesign.com/images/newlogo.png">
+            <p>This page was created by Sophie Gresens & Colleen van Lent. To learn more about web design, visit <a href="https://intro-webdesign.com">Intro to Web Design</a></p>
+    </body>
+</html>
